@@ -50,9 +50,6 @@ function show_syntax
 
 #
 #   excute function
-#   curl -i POST -H "'Content-type':'application/x-www-form-urlencoded'" -d
-#   'kind=preLogin&userIp=192.168.60.147&nasIp=10.10.30.1&userId=T10756&password=starnet'
-#   http://192.168.9.19/smp/webauthservlet 
 #
 function excute
 {
